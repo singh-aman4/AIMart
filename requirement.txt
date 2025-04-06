@@ -1,0 +1,6 @@
+flask
+openai
+sqlite3
+pandas
+sklearn
+requests
